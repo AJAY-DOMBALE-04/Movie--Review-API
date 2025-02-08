@@ -1,6 +1,6 @@
 # Movie--Review-API
 
-# 🎬 Movie Review API with React Frontend
+#  Movie Review API with React Frontend
 
 
 ![Capture](https://github.com/user-attachments/assets/7ab41a3a-a6e4-49ce-b720-5d57c5806c2d)
@@ -13,13 +13,13 @@
 
 This project is a **Movie Review API** built using **Django Ninja** for the backend and a **React** frontend. It allows users to view and review movies with details like director and rating.
 
-## 🚀 Features
-- 📝 Add, update, and delete movie reviews
-- 🎥 View movie details including title, director, and rating
-- ⚡ Fast and lightweight API using Django Ninja
-- 🎨 Interactive and visually appealing React frontend
+##  Features
+-  Add, update, and delete movie reviews
+-  View movie details including title, director, and rating
+-  Fast and lightweight API using Django Ninja
+-  Interactive and visually appealing React frontend
 
-## 📂 Project Structure
+##  Project Structure
 ```
 movie-review-api-react/
 ├── backend/   # Django Ninja API
@@ -29,7 +29,7 @@ movie-review-api-react/
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ###  Backend Setup (Django Ninja)
 1. Navigate to the `backend/` directory:
@@ -76,7 +76,7 @@ The frontend will run at `http://localhost:3000/`.
 
 ---
 
-## 📝 API Endpoints
+##  API Endpoints
 | Method | Endpoint | Description |
 |--------|----------------------|--------------------------------|
 | GET    | `/movies/`           | Fetch all movies |
@@ -87,14 +87,14 @@ The frontend will run at `http://localhost:3000/`.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Backend:** Django, Django Ninja, SQLite
 - **Frontend:** React, CSS, JavaScript
 - **Tools:** Git, VS Code, Postman
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Feel free to fork this repository and contribute to its development.
 
 ---
