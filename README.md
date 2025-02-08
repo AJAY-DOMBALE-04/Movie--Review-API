@@ -3,13 +3,13 @@
 # 🎬 Movie Review API with React Frontend
 
 
-![Capture6](https://github.com/user-attachments/assets/57c43eeb-3321-42c7-9505-e831bc00b281)
-![Capture5](https://github.com/user-attachments/assets/662ed9ed-cfbd-4bf4-ac95-9a3b49ce0f58)
-![Capture4](https://github.com/user-attachments/assets/0b0ae1df-95c6-41a4-8201-d38205d1e293)
-![Capture3](https://github.com/user-attachments/assets/9fc087ca-9f29-4dee-9bb4-825a4e9f89ea)
-![Capture2](https://github.com/user-attachments/assets/9a673103-8997-4cc6-b446-1a5c2f2c6401)
-![Capture1](https://github.com/user-attachments/assets/40b10f4a-805a-4067-8245-f13b2b504d42)
 ![Capture](https://github.com/user-attachments/assets/7ab41a3a-a6e4-49ce-b720-5d57c5806c2d)
+![Capture1](https://github.com/user-attachments/assets/40b10f4a-805a-4067-8245-f13b2b504d42)
+![Capture2](https://github.com/user-attachments/assets/9a673103-8997-4cc6-b446-1a5c2f2c6401)
+![Capture3](https://github.com/user-attachments/assets/9fc087ca-9f29-4dee-9bb4-825a4e9f89ea)
+![Capture4](https://github.com/user-attachments/assets/0b0ae1df-95c6-41a4-8201-d38205d1e293)
+![Capture5](https://github.com/user-attachments/assets/662ed9ed-cfbd-4bf4-ac95-9a3b49ce0f58)
+![Capture6](https://github.com/user-attachments/assets/57c43eeb-3321-42c7-9505-e831bc00b281)
 
 This project is a **Movie Review API** built using **Django Ninja** for the backend and a **React** frontend. It allows users to view and review movies with details like director and rating.
 
